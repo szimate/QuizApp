@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!--Question levels-->
+    <string name="question_easy">Question for 1 point</string>
+    <string name="question_medium">Question for 2 point</string>
+    <string name="question_hard">Question for 3 point</string>
+    <string name="question_extra">Question for +1 point</string>
+    <!--Questions-->
+    <string name="question_1">1. What is the highest point of European continent?</string>
+    <string name="question_2">2. Which river is NOT flows into the Atlantic Ocean?</string>
+    <string name="question_3">3. When Columbus discovered the new continent?</string>
+    <string name="question_4">4. Who used first AC/DC current as electric grid source?</string>
+    <string name="question_5">5. Where can you find the place on the picture below?</string>
+    <string name="question_6">6. Which country is located in European?</string>
+
+    <!--Answers-->
+    <string name="answer_1_a">Tubes</string>
+    <string name="answer_1_b">Mt. Blanc</string>
+    <string name="answer_1_c">Elbrus</string>
+    <string name="answer_2_a">Amazon</string>
+    <string name="answer_2_b">Congo</string>
+    <string name="answer_2_c">Danube</string>
+    <string name="answer_3_a">1783</string>
+    <string name="answer_3_b">1526</string>
+    <string name="answer_3_c">1492</string>
+    <string name="answer_4_a">Thomas Edison</string>
+    <string name="answer_4_b">George Washington</string>
+    <string name="answer_4_c">Nicola Tesla</string>
+    <string name="answer_5">City</string>
+    <string name="picture">Where is this place?</string>
+    <string name="answer_6_a">Bangladesh</string>
+    <string name="answer_6_b">Georgia</string>
+    <string name="answer_6_c">Moldova</string>
+
+    <!--submit-->
+    <string name="submit">Submit</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Kvíz App</string>
+    <!--Question levels-->
+    <string name="question_easy">Kérdés 1 pontért</string>
+    <string name="question_medium">Kérdés 2 pontért</string>
+    <string name="question_hard">Kérdés 3 pontért</string>
+    <string name="question_extra">Kérdés +1 pontért</string>
+    <!--Questions-->
+    <string name="question_1">1. Mi Európa legmagasabb pontja?</string>
+    <string name="question_2">2. Melyik folyó NEM folyik bele az Atlanti Óceánba?</string>
+    <string name="question_3">3. Mikor fedeszte fel Columbus az új kontinenst?</string>
+    <string name="question_4">4. Ki használt elsőnek válóáramot elektromos hálózatban?</string>
+    <string name="question_5">5. Hol található a képen látható hely?</string>
+    <string name="question_6">6. Melyik ország található Európában?</string>
+
+    <!--Answers-->
+    <string name="answer_1_a">Tubes</string>
+    <string name="answer_1_b">Mt. Blanc</string>
+    <string name="answer_1_c">Elbrus</string>
+    <string name="answer_2_a">Amazonas</string>
+    <string name="answer_2_b">Kongó</string>
+    <string name="answer_2_c">Duna</string>
+    <string name="answer_3_a">1783</string>
+    <string name="answer_3_b">1526</string>
+    <string name="answer_3_c">1492</string>
+    <string name="answer_4_a">Thomas Edison</string>
+    <string name="answer_4_b">George Washington</string>
+    <string name="answer_4_c">Nicola Tesla</string>
+    <string name="answer_5">Város</string>
+    <string name="picture">Hol van ez a hely?</string>
+    <string name="answer_6_a">Banglades</string>
+    <string name="answer_6_b">Grúzia</string>
+    <string name="answer_6_c">Moldova</string>
+
+    <!--submit-->
+    <string name="submit">Ellenőrzés</string>
+
+</resources>
